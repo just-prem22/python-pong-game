@@ -164,7 +164,9 @@ Pong-Game/
 
 # 📸 Gameplay Preview
 
-> 📷 Add a screenshot or GIF of your gameplay here.
+<div align="center">
+
+<img src="images/pong-gameplay.png" alt="Pong Game Gameplay" width="750">
 
 Example:
 
