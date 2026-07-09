@@ -164,9 +164,10 @@ Pong-Game/
 
 # 📸 Gameplay Preview
 
-<div align="center">
+
 
 <img src="images/pong-gameplay.png" alt="Pong Game Gameplay" width="750">
+
 
 Example:
 
