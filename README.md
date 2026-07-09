@@ -1,4 +1,4 @@
-# 🏓 Pong Game (Python)
+#  Pong Game (Python)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Project](https://img.shields.io/badge/Project-Pong%20Game-cyan)
