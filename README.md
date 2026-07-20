@@ -243,7 +243,6 @@ Whenever the ball crosses either boundary:
 - 🏆 Winning Score Limit
 - 🌈 Better Graphics
 - 🎨 Improved Animations
-- 📱 Responsive Window Scaling
 - ⚙️ Difficulty Levels
 - 🌐 Online Multiplayer
 - 🎮 Pygame Version
